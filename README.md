@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+This is sean. I'm currently a senior Computer Science student at the University of Maryland trying to learn more and more.
+
+    🌱 I’m currently learning more about concurrency and multi-threading using Java.
+ 
+               😎 Previously I had the chance to gain experience in HTML, CSS, Vannila JS and React.
+ 
+    👯 I’m always looking for cool projects to work on,
+                    
+                                            Sooooooo, just let me know.
 <!--
 **ShahSean/ShahSean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
