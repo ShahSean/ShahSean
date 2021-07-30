@@ -4,7 +4,7 @@ This is sean. I'm currently a senior Computer Science student at the University 
 
     🌱 I’m currently learning more about concurrency and multi-threading using Java.
  
-               😎 Previously I had the chance to gain experience in HTML, CSS, Vannila JS and React.
+               😎 Previously I had the chance to gain experience in HTML, CSS, Vanilla JS and React.
  
     👯 I’m always looking for cool projects to work on,
                     
